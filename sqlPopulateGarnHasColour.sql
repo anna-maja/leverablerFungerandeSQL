@@ -1,0 +1,1 @@
+SELECT * FROM individualprojectstickalster.garn_has_colour;
